@@ -1,2 +1,2 @@
 git
-dev-css  https://raiska8.github.io/portfolio-css/
+dev-css  https://raiska8.github.io/portfolio/
